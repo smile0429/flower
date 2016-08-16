@@ -13,17 +13,17 @@ img{
 	font-size:1.5rem;
 	padding:0 1rem;
 }
-.head{margin-top:2rem;padding:0px 0.6rem; text-align:center;}
-.head h1{
+.common{margin-top:2rem;padding:0px 0.6rem; text-align:center;}
+.common h1{
 	text-align:center;
 	border-bottom:solid 0.1rem #bbb;
 	padding-bottom:0.6rem;
 	margin-bottom:0.5rem;
 }
-.head>span{
+.common>span{
 	display:inline-block;
 }
-#head a{
+#common a{
 	color:#FF3333;
 }
 .container>small{
